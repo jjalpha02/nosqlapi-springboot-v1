@@ -1,2 +1,2 @@
 # nosqlapi-springboot-v1
-Api with SpringBoot and NoSql database
+Api, WebApp with SpringBoot and NoSql database
